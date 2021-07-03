@@ -1,0 +1,16 @@
+pre{
+    margin: 0;
+}
+
+ul{
+    margin-top: 20px;
+}
+
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btn{
+    width: 100%;
+}
